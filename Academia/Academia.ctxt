@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Academia
+comment1.params=
+comment1.target=Academia()
+comment1.text=\r\n\ \ \ \ public\ Academia(String\ nome,\ String\ cnpj){\r\n\ \ \ \ \ \ \ \ this.nome\ \=\ nome;\r\n\ \ \ \ \ \ \ \ this.cnpj\ \=\ cnpj;\r\n}
+comment2.params=nome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=cnpj
+comment4.target=void\ setCnpj(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getCnpj()
+comment6.params=clientes
+comment6.target=void\ setClientes(java.util.ArrayList)
+comment7.params=
+comment7.target=java.util.ArrayList\ getClientes()
+comment8.params=
+comment8.target=double\ imc()
+comment9.params=
+comment9.target=java.util.HashMap\ mapeiaGenero()
+numComments=10

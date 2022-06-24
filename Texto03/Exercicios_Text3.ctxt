@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Exercicios_Text3
+comment1.params=
+comment1.target=java.lang.String\ e3_1()
+comment10.params=d1\ d2
+comment10.target=java.lang.String\ e3_10(java.lang.String,\ java.lang.String)
+comment11.params=datas
+comment11.target=java.lang.String[]\ e3_11(java.lang.String[])
+comment12.params=data
+comment12.target=java.lang.String\ e3_12(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ e3_2()
+comment3.params=
+comment3.target=java.lang.String[]\ e3_3()
+comment4.params=
+comment4.target=java.lang.String[]\ e3_4()
+comment5.params=
+comment5.target=java.lang.String[]\ e3_5()
+comment6.params=
+comment6.target=void\ e3_6()
+comment7.params=exer
+comment7.target=void\ e3_7(java.lang.String)
+comment8.params=exer
+comment8.target=void\ e3_8(java.lang.String)
+comment9.params=
+comment9.target=void\ e3_9()
+numComments=13

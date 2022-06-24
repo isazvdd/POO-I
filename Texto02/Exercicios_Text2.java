@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Exercicios_Text2 {
-    //private List<String> frase = new ArrayList<String>();
     
     // Receber dois inteiros e retorná-los em ordem crescente
     public int[] e2_2(int y, int z){

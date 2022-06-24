@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Mercadinho
+comment1.params=
+comment1.target=Mercadinho()
+comment2.params=vendas
+comment2.target=void\ setVendas(java.util.ArrayList)
+comment3.params=
+comment3.target=java.util.ArrayList\ getVendas()
+comment4.params=nome
+comment4.target=void\ setNome(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+comment6.params=data
+comment6.target=double\ total(java.lang.String)
+comment7.params=
+comment7.target=double\ total()
+numComments=8
